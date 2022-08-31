@@ -1,1 +1,1 @@
-The inner readme
+Shell basics and commands file

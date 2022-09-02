@@ -1,1 +1,1 @@
-Systems engineering devops repo
+Systems engineering devops repository
